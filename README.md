@@ -1,5 +1,5 @@
 - Hi, I’m Todd Hostetler @Majorth
-- I’m interested in becoming a full stack web developer after retiring as an Army Officer. I've also worked in the pharmaceutical industry and have taught anatomy and physiology classes at the collegiate level.
+- I’m interested in becoming a full stack web developer after retiring as an Army Officer: medical operations and plans. I've also worked in the pharmaceutical industry and have taught anatomy and physiology classes at the collegiate level.
 - I’m currently learning full stack web development--HTML5, CSS, JS, Python, React--on freeCodeCamp primarily and secondarily on Odin Project. 
 - I'm posting my projects to show my evolution as I learn. Plus, it's a way to look back at key learning objectives for reference as I'm making notes about certain codes. 
 - I’m looking to collaborate with others and become more involved in the community as I learn. I recently joined the DEV Community on Forem and am enjoying the the site. Great people and information!
